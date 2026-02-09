@@ -1,0 +1,30 @@
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.AssemblyReference.cache
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\MainWindow.g.cs
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\App.g.cs
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1_MarkupCompile.cache
+C:\VSprojects\myTraining\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe.config
+C:\VSprojects\myTraining\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe
+C:\VSprojects\myTraining\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.pdb
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\MainWindow.baml
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.g.resources
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.Properties.Resources.resources
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.GenerateResource.cache
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.CoreCompileInputs.cache
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.exe
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.pdb
+C:\VSprojects\myTraining\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.exe.config
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe.config
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.pdb
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.AssemblyReference.cache
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.exe.config
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\MainWindow.baml
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\MainWindow.g.cs
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\App.g.cs
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1_MarkupCompile.cache
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.g.resources
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.Properties.Resources.resources
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.GenerateResource.cache
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.CoreCompileInputs.cache
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.exe
+C:\Users\coder\Desktop\задание 3 готовое\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.pdb
